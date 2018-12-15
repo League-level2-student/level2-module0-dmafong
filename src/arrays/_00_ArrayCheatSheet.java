@@ -13,7 +13,9 @@ public class _00_ArrayCheatSheet {
 		System.out.println(hi[2]);
 		//5. use a for loop to print all the values in the array
 		//   BE SURE TO USE THE ARRAY'S length VARIABLE
-		 
+		 for (int i = 0; i < hi.length; i++) {
+			
+		}
 				//6. make an array of 50 integers
 		
 		//7. use a for loop to make every value of the integer array a random number
